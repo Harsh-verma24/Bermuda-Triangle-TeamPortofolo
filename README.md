@@ -14,4 +14,4 @@ State Management: Redux Toolkit (if used)
 🏫 About Us:
 We are students from the University School of Information and Communication Technology, collaborating on creative web development projects that blend design, performance, and modern technologies.
 
-Let me know if you want to include deployment link, badges, or a demo GIF/image preview.
+https://bermuda-triangle.vercel.app/
