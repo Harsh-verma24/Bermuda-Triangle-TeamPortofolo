@@ -1,14 +1,7 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { Navbar, Footer } from "./components";
 import { motion, AnimatePresence } from "framer-motion";
-import {
-  Home,
-  About,
-  Team,
-  NotFound,
-  Contact,
-  Layout,
-} from "./pages";
+import { Home, About, Team, NotFound, Contact, Layout } from "./pages";
 import { Harsh, Jatin, JatinKumar } from "./pages/teamMembers";
 import { path } from "framer-motion/client";
 

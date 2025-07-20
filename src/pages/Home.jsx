@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <section className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-b from-purple-800 via-black to-gray-900 text-white p-8">
       <div className='flex flex-col items-center place-content-center'>
-        <img className='h-80 self-center' src="/images/Bermuda-triangle-transparent.png" alt="" />
+        <img className='h-80 self-center' src="/images/logo.png" alt="" />
         <motion.h1
         initial={{ opacity: 0, y: -30 }}
         animate={{ opacity: 1, y: 0 }}
