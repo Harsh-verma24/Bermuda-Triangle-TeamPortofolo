@@ -21,7 +21,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center py-4">
           <div className="text-lg italic font-bold w-[240px] items-center justify-center text-white flex fles-row">
-            <div className='flex w-[150px]'><img src="/images/logo.png" alt="" /></div>
+            <div className='flex w-[100px]'><img src="/images/logo.png" alt="" /></div>
             Bermuda Triangle</div>
 
           <div className="hidden md:flex space-x-8">
